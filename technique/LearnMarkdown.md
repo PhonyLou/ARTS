@@ -9,3 +9,4 @@
 4. 目前我打出来的所有文字和语法都学自[Markdown 语法说明 (简体中文版)](https://www.appinn.com/markdown/index.html)以及其[快速入门](https://www.appinn.com/markdown/basic.html)
 5. 代码在markdown中显示可以使用``来包裹，效果`如同这样`
 6. 关于item3和4中使用的链接，我是使用`[标题](URL)`来表述的
+7. 刚刚发现VS Code可以非常方便地编辑和预览.md文件，大赞
