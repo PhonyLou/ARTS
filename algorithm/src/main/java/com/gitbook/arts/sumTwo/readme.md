@@ -9,4 +9,9 @@
 
 `所以返回 [0, 1]`
 
+#### Run test
+cd ~\repo\algorithm
+
+Use `mvn clean install` to run test cases
+
 来源自[两数和问题](https://leetcode-cn.com/problems/two-sum/description/)
