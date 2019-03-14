@@ -1,14 +1,11 @@
 package com.gitbook.arts.sumTwo;
 
-import org.springframework.stereotype.Service;
-
 import java.util.HashMap;
 import java.util.Map;
 
 /**
  * Created by Phony on 2018/7/20.
  */
-@Service
 public class Solution2 {
     public int[] twoSum(int[] nums, int target) {
         /**
