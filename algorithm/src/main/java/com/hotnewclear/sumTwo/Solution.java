@@ -1,11 +1,9 @@
-package com.gitbook.arts.sumTwo;
+package com.hotnewclear.sumTwo;
 
-import org.springframework.stereotype.Service;
 
 /**
  * Created by Phony on 2018/7/20.
  */
-@Service
 public class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
