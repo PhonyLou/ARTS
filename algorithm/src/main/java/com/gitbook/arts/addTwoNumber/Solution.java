@@ -1,11 +1,5 @@
 package com.gitbook.arts.addTwoNumber;
 
-import org.springframework.stereotype.Service;
-
-/**
- * Created by Phony on 2018/7/20.
- */
-@Service
 public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummyHead = new ListNode(0);
