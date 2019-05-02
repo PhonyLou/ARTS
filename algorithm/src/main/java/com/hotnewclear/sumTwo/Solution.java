@@ -1,4 +1,4 @@
-package com.gitbook.arts.sumTwo;
+package com.hotnewclear.sumTwo;
 
 
 /**
